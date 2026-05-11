@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Logo buraya eklenecek — assets/logo.png olarak repo'ya yükleyin -->
-<img src="assets/logo.png" alt="OVAT Logo" width="200"/>
+<img src="ovat3.jpg" alt="OVAT Logo" width="200"/>
 
 # OVAT — Otomasyon ve AR-GE Takımı
 
