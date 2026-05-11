@@ -21,8 +21,6 @@
 
 OVAT, **Teknofest Robotaksi — Binek Otonom Araç Yarışması** kapsamında sürücüsüz bir kara aracı sistemi geliştiren bir üniversite takımıdır. Aracımız; çevresel algılama, rota planlama, konum takibi ve engel aşma gibi görevleri insan müdahalesi olmaksızın gerçekleştirebilecek şekilde tasarlanmıştır.
 
-**Yarışma Senaryosu:** Parkurda verilen 4 GPS koordinatına sırayla gidip yolcu alma simülasyonu yapma ve en son otopark alanına güvenli şekilde park etme. Bu süreçte aracımız şerit takibi yapar, trafik ışıklarına uyar, yaya geçitlerinde yayaya yol verir ve engelleri güvenli şekilde geçer.
-
 ## 🛠️ Sensör ve Donanım Altyapısı
 
 | Bileşen | Model |
